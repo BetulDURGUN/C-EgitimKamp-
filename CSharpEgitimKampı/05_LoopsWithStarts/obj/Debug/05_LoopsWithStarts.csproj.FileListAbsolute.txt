@@ -1,0 +1,7 @@
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe.config
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.pdb
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.AssemblyReference.cache
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.exe
+C:\Users\90545.LAPTOP-IAJS6HRT\OneDrive\Masaüstü\CSharpEgitimKampi\CSharpEgitimKampı\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.pdb
