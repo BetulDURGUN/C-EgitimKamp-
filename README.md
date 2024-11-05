@@ -39,4 +39,6 @@ Bu bölümde veri tabanına giriş yapıldı. Sql üzerinden veri tabanı oluşt
 veri girişi yapılıp, tablodaki verileri Visual Studio üzerinden bağlantı oluşturup kullanmak ve görüntülemek
 üzerine işlemler yapıldı.
 
+<h2>📍Proje 10 :C# ile Sql Crud İşlemleri </h2>
+ BU bölümde Crud işlemleri yapıldı. C# da yaptığımız işlemler ile sqlle bağlantı kurarak veri tabanımızda değişiklikler yapılmış olduk.
 
