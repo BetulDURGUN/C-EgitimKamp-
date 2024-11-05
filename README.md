@@ -40,5 +40,5 @@ veri girişi yapılıp, tablodaki verileri Visual Studio üzerinden bağlantı o
 üzerine işlemler yapıldı.
 
 <h2>📍Proje 10 :C# ile Sql Crud İşlemleri </h2>
- BU bölümde Crud işlemleri yapıldı. C# da yaptığımız işlemler ile sqlle bağlantı kurarak veri tabanımızda değişiklikler yapılmış olduk.
+ Bu bölümde Crud işlemleri yapıldı. C# da yaptığımız işlemler ile sqlle bağlantı kurarak veri tabanımızda değişiklikler yapılmış olduk.
 
